@@ -40,7 +40,7 @@ background-size: contain;
 .ph3{
     background-image: url(githtml/piccss/index.jpeg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: contain;
 }
 .ph4{
     background-image: url(githtml/piccss/index2.jpeg);
