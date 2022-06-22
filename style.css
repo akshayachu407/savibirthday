@@ -37,20 +37,25 @@ body{
 .ph1{
 background-attachment: fixed;
 background-image: url(githtml/piccss/index3.jpeg);
+background-size: cover;
 }
 
 .ph2{
     background-image: url(githtml/piccss/index1.jpeg);
+    background-size: cover;
 }
 .ph3{
     background-image: url(githtml/piccss/index2.jpeg);
     background-attachment: fixed;
+    background-size: cover;
 }
 .ph4{
     background-image: url(githtml/piccss/index.jpeg);
+    background-size: cover;
 }
 .ph5{
     background-image: url(githtml/piccss/index4.jpeg);
+    background-size: cover;
     background-attachment: fixed;
 }
 h1{
