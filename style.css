@@ -27,13 +27,14 @@
 .grid>div{
    min-width: auto;
    height: 1600px;
+   background-repeat: no-repeat;
     
 }
 body{
     color: bisque;
     background-image: url(githtml/piccss/fk.jpg);
     background-size:contain;
-    background-repeat: no-repeat;
+    
 }
 .ph1{
 background-attachment: fixed;
