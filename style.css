@@ -42,20 +42,20 @@ background-size: contain;
 
 .ph2{
     background-image: url(githtml/piccss/index1.jpeg);
-    background-size: cover;
+    background-size: contain;
 }
 .ph3{
     background-image: url(githtml/piccss/index2.jpeg);
     background-attachment: fixed;
-    background-size: cover;
+    background-size: contain;
 }
 .ph4{
     background-image: url(githtml/piccss/index.jpeg);
-    background-size: cover;
+    background-size: contain;
 }
 .ph5{
     background-image: url(githtml/piccss/index4.jpeg);
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
 }
 h1{
