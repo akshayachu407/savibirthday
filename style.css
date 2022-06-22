@@ -27,7 +27,7 @@
 .grid>div{
    min-width: auto;
    height: 1600px;
-    background-size: cover;
+    
 }
 body{
     color: bisque;
