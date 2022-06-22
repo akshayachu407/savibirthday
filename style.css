@@ -57,8 +57,10 @@ h1{
     width: auto;
     height: 1800px;
     font-size: 200px;
-    background-image: url(githtml/piccss/bg.jpg);
+    background-image: url(githtml/piccss/index3.jpeg);
     background-repeat: repeat;
+    background-size: contain;
+    background-attachment: fixed;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: uppercase;
@@ -70,5 +72,10 @@ h1{
    
     text-align: center;
     font-weight: bold;
+    animation: run;
     
+}
+@keyframes run {
+
+   
 }
