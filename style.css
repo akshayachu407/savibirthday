@@ -53,3 +53,7 @@ background-image: url(githtml/piccss/index3.jpeg);
     background-image: url(githtml/piccss/index4.jpeg);
     background-attachment: fixed;
 }
+h1{
+    width: auto;
+    height: 1600px;
+}
