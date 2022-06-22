@@ -2,7 +2,7 @@
         
   
     
-    color: whitesmoke;
+    /* color: whitesmoke; */
     /* animation-name: show;
     animation-duration: 10s;
      */
@@ -57,4 +57,5 @@ h1{
     width: auto;
     height: 1600px;
     font-size: 200px;
+    color: brown;
 }
