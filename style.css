@@ -1,0 +1,55 @@
+#wishes{
+        
+  
+    
+    color: whitesmoke;
+    /* animation-name: show;
+    animation-duration: 10s;
+     */
+    
+}
+@keyframes show {
+    from {background-image:url(githtml/piccss/fk.jpg);
+    background-size: cover;
+    }
+    
+    to {background-image:url(githtml/piccss/mk.jpg);}
+  }
+
+.grid{
+    position:relative;
+   
+    
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr; */
+   
+}
+.grid>div{
+   width: auto;
+   height: 400px;
+    background-size: cover;
+}
+body{
+    color: bisque;
+    background-image: url(githtml/piccss/fk.jpg);
+    background-size:contain;
+}
+.ph1{
+background-attachment: fixed;
+background-image: url(githtml/piccss/index3.jpeg);
+}
+
+.ph2{
+    background-image: url(githtml/piccss/index1.jpeg);
+}
+.ph3{
+    background-image: url(githtml/piccss/index2.jpeg);
+    background-attachment: fixed;
+}
+.ph4{
+    background-image: url(githtml/piccss/index.jpeg);
+}
+.ph5{
+    background-image: url(githtml/piccss/index4.jpeg);
+    background-attachment: fixed;
+}
