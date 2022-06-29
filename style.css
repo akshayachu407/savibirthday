@@ -71,11 +71,18 @@ h1{
    
     text-align: center;
     font-weight: bold;
-    animation: run;
+    animation-name: run;
+    animation-timing-function: 5s;
     
 }
 @keyframes run {
 
+ 0% {font-size:100px;}
+ 20%{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+ 40%{opacity: 0.5;}
+ 60%{font-size: 200px;}
+ 80%{opacity: 1;}
+ 100%{text-transform: lowercase;}
    
 }
 h3{
