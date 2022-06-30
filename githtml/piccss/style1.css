@@ -58,9 +58,10 @@ svg {
 
 
 h1 {
+ 
   font-family: "Montserrat Medium";
-  max-width: 40ch;
-  text-align: right;
+  max-width: 100%;
+  text-align: center;
   text-overflow: clip;
   transform: scale(0.94);
   animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
@@ -210,8 +211,8 @@ span:nth-child(24) {
   font-weight: 400;
   text-transform: uppercase;
   font-size: calc(1rem + 2vw);
-  text-align: center;
-  margin: 0;
+  text-align: right;
+  margin: 200;
   color: var(--color-primary);
   color: transparent;
   background-color: white;
