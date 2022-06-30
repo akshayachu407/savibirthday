@@ -100,8 +100,9 @@ h1{
     #fff800 70%,
     #0ddf30 80%,
     transparent 90%,
-    #222000 100%
+    #231557 100%
   );
+  font-family: canada-type-gibson, sans-serif;
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
